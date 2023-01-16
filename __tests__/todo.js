@@ -2,13 +2,8 @@ const request = require("supertest");
 
 const db = require("../models/index");
 const app = require("../app");
-<<<<<<< HEAD
 let server;
 let agent;
-=======
-//const todo =require("../models/todo");
-let server, agent;
->>>>>>> fc8dccf98a612e6ed514e0f777fdc0a46c2d75ea
 
 describe("Test case for database", () => {
   beforeAll(async () => {
