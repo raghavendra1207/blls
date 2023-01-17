@@ -1,1 +1,2 @@
-console.log("Mukesh");
+// script.js
+console.log("First JS import on an EJS application!");
