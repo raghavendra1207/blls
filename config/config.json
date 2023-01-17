@@ -14,7 +14,6 @@
     "dialect": "postgres"
     },
   "production": {
-<<<<<<< HEAD
     "use_env_variable": "DATABASE_URL",
     "dialect": "postgres",
     "dialectOptions": {
@@ -24,12 +23,4 @@
        }
      }
    }
-=======
-    "username": "root",
-    "password": null,
-    "database": "dbvar",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  }
->>>>>>> 695b62c89016434b11b12c4b30aa6b2bfca5fb2c
 }
